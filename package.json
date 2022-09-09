@@ -2,7 +2,7 @@
   "name": "test-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ks1912.github.io",
+  "homepage": "https://ks1912.github.io/reactDemoPage",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",

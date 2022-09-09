@@ -15,6 +15,7 @@ const Chart = () => {
             <button
               type="button"
               className="btn btn-primary p-2 m-2"
+              id="addUser"
               onClick={() => setToBeDisplay(toBeDisplay + 1)}
             >
               <span className="fs-2 p-5">
@@ -26,6 +27,7 @@ const Chart = () => {
             <button
               type="button"
               className="btn btn-secondary p-2 m-2"
+              id="deleteUser"
               onClick={() => setToBeDisplay(toBeDisplay + 2)}
             >
               <span className="fs-2 p-5">
@@ -37,6 +39,7 @@ const Chart = () => {
             <button
               type="button"
               className="btn btn-success p-2 m-2"
+              id="updateUser"
               onClick={() => setToBeDisplay(toBeDisplay + 3)}
             >
               <span className="fs-2 p-5">
